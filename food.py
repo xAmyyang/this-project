@@ -1,3 +1,3 @@
 def Fruits():
-    return[Strawberry,avocado,mango]
+    return[Strawberry,avoCado,Mango]
 print(Fooditems())
