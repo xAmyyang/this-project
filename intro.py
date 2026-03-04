@@ -1,2 +1,2 @@
 def favaritefruit:
-    return ['pear','strawberry','mango']
+    return ['pear','strawberry', 'Mango']
